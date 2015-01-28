@@ -12,7 +12,7 @@ or even
     viritin group:goa1 param1=value1 param2=value2 param3=value3 goal2
 
 Installation:
-    sudo cp viritin /usr/local/bin
+    sudo cp viritin.sh /usr/local/bin/viritin
 
 Best experienced with an alias:
     alias v=viritin
